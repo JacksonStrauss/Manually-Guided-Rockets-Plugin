@@ -4,7 +4,7 @@ Manually Guided Rockets
 
 This github repository stores the sourcecode for the plugin. The plugin download is hosted on the SpigotMC Forums website linked here: [Plugin Webpage](https://www.spigotmc.org/resources/manually-guided-rockets.107215/)
 
-I'll also add the description of the plugin here that can be found on the SpigotMC forum page:
+I created a custom Minecraft "texture pack" for the rocket and rocket launcher models using an application called [Blockbench](https://www.blockbench.net/). I'll also add the description of the plugin here that can be found on the SpigotMC forum page:
 
 ### » Description
 This plugin allows users to launch rockets and manually guide them by moving the mouse/cursor. (Propels the rocket to where the player is looking on the screen.) The user just needs to right-click with the rocket launcher in their hand and rockets in their inventory as ammo and whoosh... off you go!
