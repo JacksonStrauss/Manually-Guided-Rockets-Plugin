@@ -57,6 +57,7 @@ IMPORTANT NOTE: requiring these permissions can be disabled in the "config.yml" 
 - You can edit the item lore of the rocket and rocket launcher items in the "lang.yml" file.
 
 ### » FUTURE PLANS
+- Add documentation to code
 - Reformat the /giverocket command so that the [playername] goes before the [amount]
 - Add an NPC character that acts as the player so that the player can take damage and die even while in rocket mode.
 - A configurable cooldown timer to use the rocket launcher
