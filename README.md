@@ -1,6 +1,5 @@
 ## [Manually Guided Rockets Plugin](https://www.spigotmc.org/resources/manually-guided-rockets.107215/)
 This is a Java Minecraft Plugin that I created which adds rockets to the game that the user can manually control and guide to a desired target.
-Manually Guided Rockets
 
 This github repository stores the sourcecode for the plugin. The plugin download is hosted on the SpigotMC Forums website linked here: [Plugin Webpage](https://www.spigotmc.org/resources/manually-guided-rockets.107215/)
 
